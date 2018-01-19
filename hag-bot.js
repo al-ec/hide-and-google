@@ -20,14 +20,14 @@ var imageMisses = 0;
 var randomCityChoose = '';
 
 // ----- SETTINGS
-const googleStreetAPIKey = 'AIzaSyDRgRGGDi2LtADAhiQcCpG8AEkQ0f5in8o';
+const googleStreetAPIKey = 'x';
 const googleStreetSettings = '&fov=100';
 const sizeOf404Image = 9000;
 var T = new Twit({
-    consumer_key: 'kdCkg16SMOwiA6nBf0LEF2BHh',
-    consumer_secret: 'TffZ2CrnGsKBleBCJQ15ySmHABl1cbJ02L6XsVo4fTBdoH54Fq',
-    access_token: '954319262646071296-F3rfhkx4Had8dSJWdqnf5Bl1mbjJRmG',
-    access_token_secret: 'oAV6ZYLZkduLBriKBO0Oe7oZdHLHX3Il6EFu6TlktzrCL',
+    consumer_key: 'x',
+    consumer_secret: 'x',
+    access_token: 'x-x',
+    access_token_secret: 'x',
     timeout_ms: 60 * 1000, // optional HTTP request timeout to apply to all requests.
 })
 
