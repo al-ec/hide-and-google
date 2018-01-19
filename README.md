@@ -3,8 +3,6 @@
 
 ![screenshot](https://i.imgur.com/EiiYCkp.png)
 
-![screenshot](https://i.imgur.com/VB12xxm.png)
-
 #### Current development status [1.0.0]
 As of Jan. 2018 - this is barely built up. Meaning – It's probably unstable since I just wrote it. But it seems to work... Feel free to fork and have fun under the [GNU AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html) license but **please note** a large majority of this source code is likely to be overwritten or heavily modified on a day-to-day basis.
 
@@ -21,6 +19,9 @@ As of Jan. 2018 - this is barely built up. Meaning – It's probably unstable si
 
 #### Demo
 https://twitter.com/hideandgoogle
+
+
+![screenshot](https://i.imgur.com/VB12xxm.png)
 
 
 #### Quick Start
