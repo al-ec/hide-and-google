@@ -34,6 +34,9 @@ Go into the `hag-bot.js` file and focus at the top.
 
 This will need to be configured as per your keys and desired settings.
 
+
+*NOTE*: This will be ported over to a seperate config.json file soon!
+
 ```
 // ----- SETTINGS
 const googleStreetAPIKey = 'x';
