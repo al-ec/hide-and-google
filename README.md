@@ -25,7 +25,7 @@ https://twitter.com/hideandgoogle
 
 `npm i --save twit random-world inquirer image-downloader fs`
 
-Go into the `hide-and-google.js` file and focus at the top.
+Go into the `hag-bot.js` file and focus at the top.
 
 This will need to be configured as per your keys and desired settings.
 
@@ -42,6 +42,8 @@ var T = new Twit({
     timeout_ms: 60 * 1000, // optional HTTP request timeout to apply to all requests.
 })
 ```
+
+Then `node hag-bot.js`.
 
 Reccomended that you run this on a VPS with latest Node.js installed.
 
