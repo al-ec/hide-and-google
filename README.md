@@ -22,9 +22,13 @@ https://twitter.com/hideandgoogle
 #### Quick Start
 
 `$ cd /hide-and-google/`
-`npm i --save`
+
+`npm i --save twit random-world inquirer image-downloader fs`
+
 Go into the `hide-and-google.js` file and focus at the top.
+
 This will need to be configured as per your keys and desired settings.
+
 ```
 // ----- SETTINGS
 const googleStreetAPIKey = 'x';
@@ -38,6 +42,7 @@ var T = new Twit({
     timeout_ms: 60 * 1000, // optional HTTP request timeout to apply to all requests.
 })
 ```
+
 Reccomended that you run this on a VPS with latest Node.js installed.
 
 Licensed under [GNU AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html)
