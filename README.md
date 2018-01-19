@@ -1,6 +1,10 @@
 # Hide and Google 🤖
 *Hide and Google* is a twitter-bot that runs server-side (or client-side, if you wanted) to play the world's most difficult and adventerous game of hide-n-go-seek. Utilizing a variety of API's such as [twit](https://github.com/ttezel/twit) and the free Google Street View API, this little piece of [Node.js](nodejs.org) Javascript can actively monitor for responses on tweets and run itself.
 
+![screenshot](https://i.imgur.com/EiiYCkp.png)
+
+![screenshot](https://i.imgur.com/VB12xxm.png)
+
 #### Current development status [1.0.0]
 As of Jan. 2018 - this is barely built up. Meaning – It's probably unstable since I just wrote it. But it seems to work... Feel free to fork and have fun under the [GNU AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html) license but **please note** a large majority of this source code is likely to be overwritten or heavily modified on a day-to-day basis.
 
